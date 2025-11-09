@@ -10,3 +10,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Yashwanth Chenna Reddy Gotike**. I am currently pursuing an **MSc in Web and Data Science** at the University of Koblenz, with a strong passion for data engineering and a keen interest in developing scalable data solutions.
+
+## 🔗 Credits
+This project includes contributions or inspiration from [DataWithBaraa](https://github.com/DataWithBaraa/sql-data-analytics-project/tree/main)
