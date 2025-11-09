@@ -8,3 +8,5 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+
+Hi there! I'm **Yashwanth Chenna Reddy Gotike**. I am currently pursuing an **MSc in Web and Data Science** at the University of Koblenz, with a strong passion for data engineering and a keen interest in developing scalable data solutions.
